@@ -1,4 +1,5 @@
-## Magento 2 Pay with Specta
+## Magento 2 Braintree Multi Currency
+
 
 Facilitate the customers to use their home currency while checkout using Braintree in your store using ***[ Magento 2 Braintree Multi Currency](https://meetanshi.com/magento-2-braintree-multi-currency.html)*** extension. Enhance customer experience, leverage conversion rate, and global sales.
 
